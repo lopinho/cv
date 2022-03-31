@@ -13,7 +13,7 @@ const About = (props) => {
                       </Col>
                       <Col md="8" className="fw-lighter">
                           <p>
-                              I'm a passionate software developer and eternal learner with more than 9 years in the field, eager for new challenges.<br />
+                              I am a passionate software developer and eternal learner with more than 9 years in the field, eager for new challenges.<br />
                           </p>
                           Knowledge on the following technologies:<br />
                           <List type="unstyled" className="py-1 ps-3">
