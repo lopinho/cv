@@ -14,5 +14,4 @@ deploy:
   github_token: $ghpages_token
   local_dir: out
   on:
-    all_branches: true
-    condition: $TRAVIS_BRANCH =~ ^(master|main)$
+    branch: main
